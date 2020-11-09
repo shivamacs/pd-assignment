@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
+https://www.kdnuggets.com/2016/08/gentle-introduction-bloom-filter.html
+https://docs.python.org/3/library/collections.html#collections.OrderedDict
+https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb
+https://docs.aiohttp.org/en/stable/
+https://docs.python.org/3/library/asyncio.html
+https://www.fullstackpython.com/task-queues.html
+https://pyfim.readthedocs.io/en/latest/source/introduction.html
+https://www.geeksforgeeks.org/frequent-item-set-in-data-set-association-rule-mining/
+https://medium.com/cracking-the-data-science-interview/an-introduction-to-big-data-itemset-mining-a97a17e0665a
+https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce

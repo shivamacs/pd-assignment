@@ -1,0 +1,17 @@
+aiohttp==3.7.2
+async-timeout==3.0.1
+asyncio==3.4.3
+attrs==20.3.0
+bitarray==1.6.1
+chardet==3.0.4
+idna==2.10
+mmh3==2.5.1
+multidict==5.0.0
+numpy==1.19.4
+pandas==1.1.4
+pyfim==6.28
+python-dateutil==2.8.1
+pytz==2020.4
+six==1.15.0
+typing-extensions==3.7.4.3
+yarl==1.6.2
